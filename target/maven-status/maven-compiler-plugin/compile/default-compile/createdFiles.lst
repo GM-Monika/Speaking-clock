@@ -1,0 +1,5 @@
+com\example\speakingclock\controller\TimeController.class
+com\example\speakingclock\exception\GlobalExceptionHandler.class
+com\example\speakingclock\exception\InvalidTimeFormatException.class
+com\example\speakingclock\SpeakingClockApplication.class
+com\example\speakingclock\service\TimeService.class
